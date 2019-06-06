@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jotter-react/precache-manifest.a47f18687e0efdf14491427b6726bd0b.js"
+  "/jotter-react/precache-manifest.b5af3d096c7d2ef813f7ec2cd4e8fb5c.js"
 );
 
 self.addEventListener('message', (event) => {

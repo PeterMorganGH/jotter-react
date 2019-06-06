@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ac901016ee914fdb4d2fba4b5d63a6a",
+    "revision": "d3ab74f7c0eb42a4831e8d0a6e506212",
     "url": "/jotter-react/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jotter-react/static/js/2.84411e73.chunk.js"
   },
   {
-    "revision": "ea14c242994363a4ebbc",
-    "url": "/jotter-react/static/js/main.28adfea0.chunk.js"
+    "revision": "5c389130843348cade6e",
+    "url": "/jotter-react/static/js/main.186ecf0c.chunk.js"
   },
   {
     "revision": "cd26f4324b03d62fff91",
